@@ -9,3 +9,14 @@ D:\Portfolio\Invenotry Management System\Invenotry Management System\obj\Debug\I
 D:\Portfolio\Invenotry Management System\Invenotry Management System\obj\Debug\Invenotry Management System.csproj.CoreCompileInputs.cache
 D:\Portfolio\Invenotry Management System\Invenotry Management System\obj\Debug\Invenotry Management System.exe
 D:\Portfolio\Invenotry Management System\Invenotry Management System\obj\Debug\Invenotry Management System.pdb
+D:\Portfolio\Inventory-Management-System\Invenotry Management System\bin\Debug\Invenotry Management System.exe.config
+D:\Portfolio\Inventory-Management-System\Invenotry Management System\bin\Debug\Invenotry Management System.exe
+D:\Portfolio\Inventory-Management-System\Invenotry Management System\bin\Debug\Invenotry Management System.pdb
+D:\Portfolio\Inventory-Management-System\Invenotry Management System\obj\Debug\Invenotry Management System.csproj.AssemblyReference.cache
+D:\Portfolio\Inventory-Management-System\Invenotry Management System\obj\Debug\Invenotry Management System.csproj.SuggestedBindingRedirects.cache
+D:\Portfolio\Inventory-Management-System\Invenotry Management System\obj\Debug\Invenotry_Management_System.LoginForm.resources
+D:\Portfolio\Inventory-Management-System\Invenotry Management System\obj\Debug\Invenotry_Management_System.Properties.Resources.resources
+D:\Portfolio\Inventory-Management-System\Invenotry Management System\obj\Debug\Invenotry Management System.csproj.GenerateResource.cache
+D:\Portfolio\Inventory-Management-System\Invenotry Management System\obj\Debug\Invenotry Management System.csproj.CoreCompileInputs.cache
+D:\Portfolio\Inventory-Management-System\Invenotry Management System\obj\Debug\Invenotry Management System.exe
+D:\Portfolio\Inventory-Management-System\Invenotry Management System\obj\Debug\Invenotry Management System.pdb
